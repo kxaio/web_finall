@@ -1,0 +1,93 @@
+/* help_button div */
+.help_button {
+    text-align: center;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 90px;
+    border: 3px solid #f16c5d;
+    background-color: #f16c5d;
+    border-radius: 50px;
+}
+
+/* help button a */
+.help_button > a {
+    color: black;
+    text-decoration: none;
+}
+
+/* help button imgage */ 
+.help_button > a > img {
+    height: 3vh;
+}
+
+/* top_header */
+.top_header {
+    margin: 2vh 3vw;
+}
+
+/* top_header every item padding */
+.top_header > div {
+    padding: 0 2vh;
+}
+
+/* logo */
+.top_header_left_logo > img {
+    width: 15vh;
+}
+
+.header-search {
+    width: 380px;
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    vertical-align: top;
+    font-weight: 400;
+    font-size: 12px;
+    color: #39393e;
+    word-wrap: break-word;
+}
+
+/* under search bar a */
+.under_search_bar > a {
+    color: black;
+    text-decoration: none;
+}
+
+/* i want sale btn */
+.i_want_sale_btn {
+    color: black;
+    text-decoration: none;
+}
+
+/* header_right */
+.header-right > a {
+    padding: 0 2vh;
+}
+
+/* login/register a */
+.login_btn {
+    text-decoration: none;
+}
+
+/* left header padding */
+.top_header_left_div {
+    padding: 0 2vh;
+}
+
+/* login/register btn */
+.login_btn > button {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #000000;
+}
+
+/* rewrite carousel */
+.carousel_re {
+    width: 50vw;
+}
+
+/* rewrite card_title */
+.card-title {
+    font-size: 20px;
+}
